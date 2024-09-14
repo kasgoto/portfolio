@@ -6,7 +6,7 @@ import telegramDark from "../../assets/telegram-light.png"
 import telegramLight from "../../assets/telegram-dark.svg"
 import githubLight from "../../assets/github-light.svg"
 import githubDark from "../../assets/github-dark.svg"
-import CV from "../../assets/cv.pdf"
+import CV from "../../assets/Vilius cv.pdf"
 import { useTheme } from "../../common/ThemeContext"
 
 function Hero() {
